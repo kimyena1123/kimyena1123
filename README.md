@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:E6EE9C,100:4DD0E1&&text=Welcome%20to%20Yena's%20GitHub%20&textColor=f7f5f5&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=180&fontColor=ffffff)
 
-![Yena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyena1123&include_all_commits=true&show_icons=true&theme=cobalt&count_private=true)
+<!-- ![Yena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyena1123&include_all_commits=true&show_icons=true&theme=cobalt&count_private=true) -->
 
 <!--
 **kimyena1123/kimyena1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
