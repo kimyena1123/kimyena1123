@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:E6EE9C,100:4DD0E1&&text=Welcome%20to%20Yena's%20GitHub%20&textColor=f7f5f5&animation=twinkling&fontSize=45&fontAlignY=50&fontAlign=50&height=220&fontColor=ffffff)
 
+<br> 
 
+![Yena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyena1123&include_all_commits=true&show_icons=true&theme=cobalt&count_private=true)
+<!-- ![Yena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyena1123&include_all_commits=true&show_icons=true&theme=radical&count_private=true) --> 
 
 ## 💻 Tech Stack 💻
 <div style="display:flex; flex-direction:row;">
@@ -31,12 +34,6 @@
 
 </div>
 <br><br>
-
-
-![Yena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyena1123&include_all_commits=true&show_icons=true&theme=cobalt&count_private=true)
-<!-- ![Yena's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyena1123&include_all_commits=true&show_icons=true&theme=radical&count_private=true) --> 
-
-
 
 
 
